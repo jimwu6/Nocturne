@@ -11,7 +11,7 @@ Additional photos/videos, miscellaneous files, and logging data available on [Go
 
 Below are sample images of the GUI used and the construction of the gyroscopes. 
 
-![GUI](GUI.png)
+![GUI](GUI.PNG)
 ![P1](P1.jpg)
 ![P2](P2.jpg)
 ![P3](P3.jpg)
