@@ -1,7 +1,7 @@
 # Nocturne
 Rudimentary Spacecraft Guidance System
 
-Nocturne is a Rudimentary Spacecraft Guidance System, made from three gyroscopes that can detect the angle of movement to 5-10 degree accuracy on three axis. Communication between the Arduino and controller (computer) is through Bluetooth (originally over TCP through a Raspberry Pi). Code is written in Java anc C++ (Arduino), with some Python testing processes. Software allows for real-time display of angular movement (numerically and visually), moving averages of the movement, logged data, flight duration, and testing of the fins. 
+Nocturne is a Rudimentary Spacecraft Guidance System, made from three gyroscopes that can detect the angle of movement to 5-10 degree accuracy on three axis. Communication between the Arduino and controller (computer) is through Bluetooth (originally over TCP through a Raspberry Pi). Code is written in Java anc C++ (Arduino), with some Python testing processes. Software allows for real-time display of angular movement (numerically and visually), moving averages of the movement, logged data, flight duration, and testing of the fins. Colour sensors with a custom-created continous colour strip surrounding were used to detect the different movements in angles.
 
 [Prospectus](https://github.com/jimwu6/Nocturne/blob/master/Prospectus.pdf)
 
